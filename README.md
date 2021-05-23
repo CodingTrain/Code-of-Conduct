@@ -20,3 +20,7 @@ This is a Code of Conduct for the Coding Train community. This is [largely based
 If you believe someone is violating the code of conduct, we ask that you report it by emailing [info@thecodingtrain.com](mailto:info@thecodingtrain.com). Please include your name and a description of the incident, and we will get back to you ASAP.
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the Coding Train may take any action they deem appropriate, up to and including expulsion from all Coding Train spaces and identification of the participant as a harasser to other Coding Train members or the general public. 
+
+
+
+eof
